@@ -1,0 +1,36 @@
+_repo: Valkoinen-paallikko-Kertomus-Pohjois-Meksikosta_64617
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kanervio, Siimes
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '52964'
+    url: http://www.gutenberg.org/2009/agents/52964
+    wikipedia: https://fi.wikipedia.org/wiki/Siimes_Kanervio
+creator:
+  author:
+    agent_name: Reid, Mayne
+    aliases:
+    - Mayne-Reid, Captain
+    - Reid, Thomas Mayne
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '6260'
+    url: http://www.gutenberg.org/2009/agents/6260
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Mayne_Reid
+description: 'Abridged translation of: The white chief.'
+gutenberg_issued: '2021-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64617'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Southwest, New -- History -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Valkoinen päällikkö: Kertomus Pohjois-Meksikosta'
+url: http://www.gutenberg.org/ebooks/64617
